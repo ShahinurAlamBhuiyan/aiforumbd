@@ -1,4 +1,4 @@
-# 🤖 AI Forum Bangladesh – Official Website
+# 🤖 AI Forum Bangladesh
 
 Welcome to the repository for **AI Forum Bangladesh**, an independent non-profit organization committed to preparing the next generation for the Artificial Intelligence (AI) era.
 
@@ -14,27 +14,6 @@ aim to bridge the gap between **talent and opportunity** by:
 - Fostering innovation.
 - Building career pathways.
 - Supporting meaningful ventures.
-
----
-
-## 🧭 Core Pillars
-
-### ✅ Responsible AI for All  
-AI Forum Bangladesh promotes inclusive and ethical AI practices. We prepare youth to **lead with responsibility** in a technology-driven society.
-
-### 🔬 Building Innovation Ecosystem  
-We work on both fronts: crafting bold ideas and activating the ecosystem to **turn those ideas into real-world impact**.
-
-### 🎓 AI Academy  
-Not just to use AI, but to **teach, guide, and lead it**. Our Academy helps youth grow the skills needed to shape tomorrow’s tech, business, and innovation spaces.
-
-### 💼 Career Care  
-From local shifts to international research seats — we help guide your **next big move** with purpose and strategy.
-
-### ⚡ Hackathons  
-We organize national and global hackathons to challenge problem solvers and makers. Example:  
-**CodeCure 2025** – Innovating Digital Health.  
-*Rajshahi University Auditorium, Bangladesh*
 
 ---
 
